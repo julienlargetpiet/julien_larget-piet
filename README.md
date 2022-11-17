@@ -1,6 +1,6 @@
 - Hi, I’m @iro0087
 - I’m interested in linux, python...
-- I'm using neovim
+- I'm using neovim, dwm...
 - I’m currently studying chemistry
 
 <!---
